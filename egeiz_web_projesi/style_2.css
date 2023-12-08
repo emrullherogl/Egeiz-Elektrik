@@ -1,0 +1,668 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#hero2 video{
+    height: 1500px;
+    width: 1500px;
+    background-position: absolute;
+    z-index: 10;
+    object-fit: cover;
+    margin-bottom: -140px;
+}
+
+#hero2{
+    position: relative;
+}
+
+h1{
+    color: #fff;
+    font-size: 50px;
+    margin-top: 0px;
+}
+
+nav ul li a{
+    position: absolute;
+    color: #fff;
+    font-size: 90px;
+    top: 70px;
+    margin-left: 650px;
+}
+
+
+
+.cata img{
+    position: absolute;
+    width: 250px;
+    top: 180px;
+}
+
+.schneider img{
+    position: absolute;
+    top: 180px;
+    bottom: 600px;
+    width: 250px;
+    margin-left: 340px;
+    
+}
+
+.siemens img{
+    position: absolute;
+    top: 180px;
+    bottom: 600px;
+    width: 250px;
+    margin-left: 650px;
+}
+
+.legrand img{
+    position: absolute;
+    top: 180px;
+    bottom: 600px;
+    width: 250px;
+    margin-left: 950px;
+}
+
+.viko img{
+    position: absolute;
+    top: 180px;
+    bottom: 600px;
+    width: 250px;
+    margin-left: 1200px;
+}
+
+.ack img{
+    position: absolute;
+    top: 330px;
+    width: 250px;
+}
+
+.bemis img{
+    position: absolute;
+    top: 330px;
+    width: 250px;
+    margin-left: 340px;
+}
+
+.mutlusan img{
+    position: absolute;
+    top: 330px;
+    width: 250px;
+    margin-left: 650px;
+}
+
+.kael img{
+    position: absolute;
+    top: 330px;
+    width: 250px;
+    margin-left: 950px;
+}
+
+.çetinkayapano img{
+    position: absolute;
+    top: 330px;
+    width: 250px;
+    margin-left: 1220px;
+}
+
+.özgüvenkablo img{
+    position: absolute;
+    top: 450px;
+    width: 200px;
+    margin-left: 40px;
+}
+
+.emas img{
+    position: absolute;
+    top: 450px;
+    width: 250px;
+    margin-left: 340px;
+}
+
+.reçber img{
+    position: absolute;
+    top: 450px;
+    width: 250px;
+    margin-left: 650px;
+}
+
+.seval img{
+    position: absolute;
+    top: 450px;
+    width: 250px;
+    margin-left: 950px;
+}
+
+.osram img{
+    position: absolute;
+    top: 450px;
+    width: 250px;
+    margin-left: 1220px;
+}
+
+.onka img{
+    position: absolute;
+    top: 650px;
+    width: 250px;
+}
+
+.isildar img{
+    position: absolute;
+    top: 650px;
+    width: 250px;
+    margin-left: 340px;
+}
+
+.nade img{
+    position: absolute;
+    top: 650px;
+    width: 250px;
+    margin-left: 650px;
+}
+
+.metop img{
+    position: absolute;
+    top: 650px;
+    width: 250px;
+    margin-left: 950px;
+}
+
+.klemsan img{
+    position: absolute;
+    top: 650px;
+    width: 250px;
+    margin-left: 1220px;
+}
+
+.hasçelik img{
+    position: absolute;
+    top: 800px;
+    width: 250px;
+}
+
+.ugur img{
+    position: absolute;
+    top: 800px;
+    width: 250px;
+    margin-left: 340px;
+}
+
+.tpelectric img{
+    position: absolute;
+    top: 800px;
+    width: 250px;
+    margin-left: 650px;
+}
+
+.savk img{
+    position: absolute;
+    top: 800px;
+    width: 250px;
+    margin-left: 950px;
+}
+
+.pera img{
+    position: absolute;
+    top: 800px;
+    width: 250px;
+    margin-left: 1220px;
+}
+
+.mavili img{
+    position: absolute;
+    top: 950px;
+    width: 250px;
+}
+
+.kondas img{
+    position: absolute;
+    top: 950px;
+    width: 250px;
+    margin-left: 340px;
+}
+
+.jupiter img{
+    position: absolute;
+    top: 950px;
+    width: 250px;
+    margin-left: 650px;
+}
+
+.kabtek img{
+    position: absolute;
+    top: 950px;
+    width: 250px;
+    margin-left: 950px;
+}
+
+.sigma img{
+    position: absolute;
+    top: 950px;
+    width: 250px;
+    margin-left: 1220px;
+}
+
+.gecem img{
+    position: absolute;
+    top: 1100px;
+    width: 250px;
+}
+
+.gelighting img{
+    position: absolute;
+    top: 1100px;
+    width: 250px;
+    margin-left: 340px;
+}
+
+.entes img{
+    position: absolute;
+    top: 1100px;
+    width: 250px;
+    margin-left: 650px;
+}
+
+.enda img{
+    position: absolute;
+    top: 1100px;
+    width: 250px;
+    margin-left: 950px;
+}
+
+.eleks img{
+    position: absolute;
+    top: 1100px;
+    width: 250px;
+    margin-left: 1220px;
+}
+
+.draka img{
+    position: absolute;
+    top: 1350px;
+    width: 250px;
+}
+
+.doğan img{
+    position: absolute;
+    top: 1350px;
+    width: 250px;
+    margin-left: 340px;
+}
+
+.audio img{
+    position: absolute;
+    top: 1350px;
+    width: 250px;
+    margin-left: 650px;
+}
+
+.alce img{
+    position: absolute;
+    top: 1350px;
+    width: 250px;
+    margin-left: 950px;
+}
+
+.kaim img{
+    position: absolute;
+    top: 1350px;
+    width: 250px;
+    margin-left: 1220px;
+}
+
+body {
+    font-size: 16px;
+}
+
+
+#hero2 video{
+    height: 1500px;
+    width: auto;
+    background-position: absolute;
+    z-index: 10;
+    object-fit: cover;
+    margin-bottom: -140px;
+}
+.navbar{
+    position: relative;
+    top: -1420px;
+    left: 75px;
+}
+
+@media (max-width:377px){
+    #hero2 video{
+        height: 2200px;
+        width: 300px;
+        background-position: absolute;
+        z-index: 10;
+        object-fit: cover;
+        margin-bottom: -140px;
+    }
+    
+}
+
+@media (max-width: 376px){
+    .cata img{
+        position: absolute;
+        width: 100px;
+        top: 180px;
+        margin-left: 20px;
+    }
+
+    .ack img{
+        position: absolute;
+        top: 280px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .özgüvenkablo img{
+        position: absolute;
+        top: 380px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .onka img{
+        position: absolute;
+        top: 525px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .hasçelik img{
+        position: absolute;
+        top: 610px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .mavili img{
+        position: absolute;
+        top: 700px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .gecem img{
+        position: absolute;
+        top: 800px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .draka img{
+        position: absolute;
+        top: 950px;
+        width: 100px;
+        margin-left: 20px;
+    }
+}
+@media (max-width: 610px){
+    .schneider img{
+        position: absolute;
+        top: 163px;
+        bottom: 600px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .bemis img{
+        position: absolute;
+        top: 280px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .emas img{
+        position: absolute;
+        top: 413px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .isildar img{
+        position: absolute;
+        top: 510px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .ugur img{
+        position: absolute;
+        top: 610px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .kondas img{
+        position: absolute;
+        top: 685px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .gelighting img{
+        position: absolute;
+        top: 820px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .doğan img{
+        position: absolute;
+        top: 935px;
+        width: 100px;
+        margin-left: 170px;
+    }
+}
+
+@media (max-width: 907px){
+    .siemens img{
+        position: absolute;
+        top: 1000px;
+        bottom: 600px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .mutlusan img{
+        position: absolute;
+        top: 1090px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .reçber img{
+        position: absolute;
+        top: 1170px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .nade img{
+        position: absolute;
+        top: 1250px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .tpelectric img{
+        position: absolute;
+        top: 1330px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .jupiter img{
+        position: absolute;
+        top: 1420px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .entes img{
+        position: absolute;
+        top: 1510px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .audio img{
+        position: absolute;
+        top: 1600px;
+        width: 100px;
+        margin-left: 20px;
+    }
+}
+
+@media (max-width: 1210px){
+    .legrand img{
+        position: absolute;
+        top: 1000px;
+        bottom: 600px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .kael img{
+        position: absolute;
+        top: 1080px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .seval img{
+        position: absolute;
+        top: 1175px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .metop img{
+        position: absolute;
+        top: 1245px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .savk img{
+        position: absolute;
+        top: 1330px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .kabtek img{
+        position: absolute;
+        top: 1420px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .enda img{
+        position: absolute;
+        top: 1510px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .alce img{
+        position: absolute;
+        top: 1600px;
+        width: 100px;
+        margin-left: 170px;
+    }
+}
+
+@media (max-width: 1310px){
+    .viko img{
+        position: absolute;
+        top: 1750px;
+        bottom: 600px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .çetinkayapano img{
+        position: absolute;
+        top: 1750px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .osram img{
+        position: absolute;
+        top: 1850px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .klemsan img{
+        position: absolute;
+        top: 1858px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .pera img{
+        position: absolute;
+        top: 1950px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .sigma img{
+        position: absolute;
+        top: 1950px;
+        width: 100px;
+        margin-left: 170px;
+    }
+
+    .eleks img{
+        position: absolute;
+        top: 2070px;
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .kaim img{
+        position: absolute;
+        top: 2070px;
+        width: 100px;
+        margin-left: 170px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 769px){
+    ul li a i{
+        position: relative;
+        right: 200px;
+    }
+}
+
+@media (max-width: 569px){
+    ul li a i{
+        position: relative;
+        right: 300px;
+    }
+}
+
+@media (max-width: 469px){
+    ul li a i{
+        position: relative;
+        right: 530px;
+        top: 300px;
+    }
+}
+
+
+
+
